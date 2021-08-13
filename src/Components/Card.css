@@ -4,6 +4,9 @@
     border: 2px solid #dee2e6;
     color: #212529;
 }
+.property-card:hover {
+    cursor: pointer;
+}
 .property-card strong {
     font-size: 0.8em;
 }
