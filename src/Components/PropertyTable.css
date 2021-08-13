@@ -1,0 +1,14 @@
+table.property-table.table-light {
+    border: 2px solid #dee2e6;
+}
+
+.property-table thead tr th {
+    background-color: #dee2e6;
+}
+.property-table tbody tr td {
+    background-color: #FFF;
+    border-left: none;
+    border-right: none;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+}

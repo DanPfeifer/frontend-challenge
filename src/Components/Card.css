@@ -1,0 +1,26 @@
+.property-card {
+    height: 300px;
+    width: 100%;
+    border: 2px solid #dee2e6;
+    color: #212529;
+}
+.property-card strong {
+    font-size: 0.8em;
+}
+.property-card .upper-card,  .property-card .lower-card{
+    padding: 15px;
+}
+.property-card .upper-card {
+    height: 50%;
+    border-bottom: 2px solid #dee2e6;
+}
+.property-card .lower-card {
+    height: 50%;
+}
+.lower-card .top-row {
+    height: 100px
+}
+.text-right{
+    text-align: right !important;
+}
+
